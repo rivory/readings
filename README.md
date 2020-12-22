@@ -1,5 +1,5 @@
 # Readings
-Readings to become a better software engineer
+Readings to become a better software engineer / developer
 
 
 ## Articles

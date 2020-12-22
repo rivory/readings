@@ -15,11 +15,13 @@ Readings to become a better software engineer / developer
 [How I write HTTP services after eight years by Mat Ryer - PACE.](https://pace.dev/blog/2018/05/09/how-I-write-http-services-after-eight-years.html)
 
 
+
 ## Books
 
 [Mature Optimization: An Introduction](http://carlos.bueno.org/optimization/)
 
 [SRE by google](https://sre.google/books/)
+
 
 
 ## Conferences / Videos
@@ -35,8 +37,14 @@ Readings to become a better software engineer / developer
 [GOTO 2019 • Moving Fast At Scale • Randy Shoup](https://youtu.be/suOjtOFfyZg)
 
 
+
 ## Tech Blogs to follow
 
 [Netflix](https://netflixtechblog.com/)
 
 [Airbnb](https://airbnb.io/)
+
+
+## Useful resources
+
+[Design patterns by example](https://refactoring.guru/design-patterns/go)

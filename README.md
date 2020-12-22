@@ -58,6 +58,8 @@ Readings to become a better software engineer / developer
 
 ## Tech Blogs to follow
 
+[The Clean Code Blog by Robert C. Martin (Uncle Bob)](https://blog.cleancoder.com/)
+
 [Netflix](https://netflixtechblog.com/)
 
 [Airbnb](https://airbnb.io/)

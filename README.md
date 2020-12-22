@@ -6,6 +6,8 @@ Readings to become a better software engineer / developer
 
 [6 Principles Of Software Engineering That Every Developer Should Know](https://link.medium.com/mqx5zpG3sbb)
 
+[How to write an effective developer resume: Advice from a hiring manager](https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager/?cb=1)
+
 ### Golang
 
 [5 Mistakes I’ve Made in Go](https://medium.com/swlh/5-mistakes-ive-made-in-go-75fb64b943b8)

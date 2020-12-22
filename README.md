@@ -56,6 +56,14 @@
 
 [GOTO 2019 • Moving Fast At Scale • Randy Shoup](https://youtu.be/suOjtOFfyZg)
 
+[Getting the most out of the PHP 7 engine — the example of Symfony / Nicolas Grekas (Symfony)](https://www.youtube.com/watch?v=dSjLTZMDUuw&ab_channel=PHPChannel)
+
+### Youtube channels
+
+[George Hotz (commai archive)](https://www.youtube.com/c/commaaiarchive/featured)
+
+[Fun Fun Function](https://www.youtube.com/c/funfunfunction/featured)
+
 
 
 ## Tech Blogs to follow

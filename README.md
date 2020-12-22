@@ -8,11 +8,29 @@ Readings to become a better software engineer / developer
 
 [How to write an effective developer resume: Advice from a hiring manager](https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager/?cb=1)
 
+[Code: Align the happy path to the left edge](https://medium.com/@matryer/line-of-sight-in-code-186dd7cdea88)
+
 ### Golang
 
 [5 Mistakes I’ve Made in Go](https://medium.com/swlh/5-mistakes-ive-made-in-go-75fb64b943b8)
 
 [How I write HTTP services after eight years by Mat Ryer - PACE.](https://pace.dev/blog/2018/05/09/how-I-write-http-services-after-eight-years.html)
+
+[Interfaces in Go](https://medium.com/rungo/interfaces-in-go-ab1601159b3a)
+
+[What “accept interfaces, return structs” means in Go](https://medium.com/@cep21/what-accept-interfaces-return-structs-means-in-go-2fe879e25ee8)
+
+[Polymorphism with Golang Interfaces](https://medium.com/technofunnel/polymorphism-with-golang-interfaces-b2f58a05b221)
+
+[Go: Сomparing dependency injection approaches](https://medium.com/scum-gazeta/go-%D1%81omparing-dependency-injection-approaches-23cb9772a016)
+
+[Dependency Injection in GO with Wire](https://medium.com/wesionary-team/dependency-injection-in-go-with-wire-74f81cd222f6)
+
+### Redis
+
+[A Redis series articles](https://medium.com/swlh/install-redis-inside-a-ubuntu-vm-d5022d42d8cc)
+
+[Storing hundreds of millions of simple keys in 282 mb with Redis](storing-hundreds-of-millions-of-simple-keys-in-282-mb-with-redis)
 
 
 

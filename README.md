@@ -73,4 +73,5 @@
 
 [Design patterns by example](https://refactoring.guru/design-patterns/go)
 
-[React course](https://react2025.com/)
+[React - Start developing
+websites like it's 2025.](https://react2025.com/)

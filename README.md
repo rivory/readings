@@ -1,5 +1,10 @@
 # Readings
-Readings to become a better software engineer / developer
+
+## Books
+
+[Mature Optimization: An Introduction](http://carlos.bueno.org/optimization/)
+
+[SRE by google](https://sre.google/books/)
 
 
 ## Articles
@@ -33,12 +38,9 @@ Readings to become a better software engineer / developer
 [Storing hundreds of millions of simple keys in 282 mb with Redis](storing-hundreds-of-millions-of-simple-keys-in-282-mb-with-redis)
 
 
+### React / React-native
 
-## Books
-
-[Mature Optimization: An Introduction](http://carlos.bueno.org/optimization/)
-
-[SRE by google](https://sre.google/books/)
+[The Journey of React-Native @ Flipkart](https://tech.flipkart.com/the-journey-of-react-native-flipkart-47dcd0c3d1c6)
 
 
 
@@ -64,7 +66,11 @@ Readings to become a better software engineer / developer
 
 [Airbnb](https://airbnb.io/)
 
+[Cloudflare](https://blog.cloudflare.com/)
+
 
 ## Useful resources
 
 [Design patterns by example](https://refactoring.guru/design-patterns/go)
+
+[React course](https://react2025.com/)

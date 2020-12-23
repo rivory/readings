@@ -66,6 +66,8 @@
 
 [Fun Fun Function](https://www.youtube.com/c/funfunfunction/featured)
 
+[GOTO Conferemces](https://www.youtube.com/user/GotoConferences)
+
 
 
 ## Tech Blogs to follow

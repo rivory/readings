@@ -15,6 +15,8 @@
 
 [Code: Align the happy path to the left edge](https://medium.com/@matryer/line-of-sight-in-code-186dd7cdea88)
 
+[Designing robust and predictable APIs with idempotency](https://stripe.com/blog/idempotency)
+
 ### Golang
 
 [5 Mistakes I’ve Made in Go](https://medium.com/swlh/5-mistakes-ive-made-in-go-75fb64b943b8)

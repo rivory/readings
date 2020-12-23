@@ -66,7 +66,7 @@
 
 [Fun Fun Function](https://www.youtube.com/c/funfunfunction/featured)
 
-[GOTO Conferemces](https://www.youtube.com/user/GotoConferences)
+[GOTO Conferences](https://www.youtube.com/user/GotoConferences)
 
 
 

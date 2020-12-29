@@ -62,6 +62,8 @@
 
 [GOTO 2016 • Microservices in Go • Matt Heath (Monzo)](https://www.youtube.com/watch?v=WiCru2zIWWs&ab_channel=GOTOConferences)
 
+[GOTO 2016 • What I Wish I Had Known Before Scaling Uber to 1000 Services • Matt Ranney](https://www.youtube.com/watch?v=kb-m2fasdDY&ab_channel=GOTOConferences)
+
 ### Youtube channels
 
 [George Hotz (commai archive)](https://www.youtube.com/c/commaaiarchive/featured)

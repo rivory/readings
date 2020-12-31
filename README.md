@@ -33,6 +33,8 @@
 
 [Dependency Injection in GO with Wire](https://medium.com/wesionary-team/dependency-injection-in-go-with-wire-74f81cd222f6)
 
+[Go memory ballast: How I learnt to stop worrying and love the heap](https://blog.twitch.tv/en/2019/04/10/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2/)
+
 ### Redis
 
 [A Redis series articles](https://medium.com/swlh/install-redis-inside-a-ubuntu-vm-d5022d42d8cc)

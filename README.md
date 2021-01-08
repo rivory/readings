@@ -66,6 +66,8 @@
 
 [GOTO 2016 • What I Wish I Had Known Before Scaling Uber to 1000 Services • Matt Ranney](https://www.youtube.com/watch?v=kb-m2fasdDY&ab_channel=GOTOConferences)
 
+[Scaling Instagram Infrastructure](https://www.youtube.com/watch?v=hnpzNAPiC0E&ab_channel=InfoQ)
+
 ### Youtube channels
 
 [George Hotz (commai archive)](https://www.youtube.com/c/commaaiarchive/featured)

@@ -68,6 +68,8 @@
 
 [Scaling Instagram Infrastructure](https://www.youtube.com/watch?v=hnpzNAPiC0E&ab_channel=InfoQ)
 
+[A Story of Mob Programming, Testing and Everything - Elisabeth Hocke - DDD Europe 2020](https://www.youtube.com/watch?v=-wGmG7VuXns&ab_channel=Domain-DrivenDesignEurope)
+
 ### Youtube channels
 
 [George Hotz (commai archive)](https://www.youtube.com/c/commaaiarchive/featured)

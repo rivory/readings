@@ -35,6 +35,8 @@
 
 [Go memory ballast: How I learnt to stop worrying and love the heap](https://blog.twitch.tv/en/2019/04/10/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2/)
 
+[Why Discord is switching from Go to Rust](https://blog.discord.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)
+
 ### Redis
 
 [A Redis series articles](https://medium.com/swlh/install-redis-inside-a-ubuntu-vm-d5022d42d8cc)

@@ -37,8 +37,6 @@
 
 [Why Discord is switching from Go to Rust](https://blog.discord.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)
 
-[dotGo 2016 - Dave Cheney - Do not fear first class functions](https://www.youtube.com/watch?v=5buaPyJ0XeQ)
-
 ### Redis
 
 [A Redis series articles](https://medium.com/swlh/install-redis-inside-a-ubuntu-vm-d5022d42d8cc)
@@ -73,6 +71,8 @@
 [Scaling Instagram Infrastructure](https://www.youtube.com/watch?v=hnpzNAPiC0E&ab_channel=InfoQ)
 
 [A Story of Mob Programming, Testing and Everything - Elisabeth Hocke - DDD Europe 2020](https://www.youtube.com/watch?v=-wGmG7VuXns&ab_channel=Domain-DrivenDesignEurope)
+
+[dotGo 2016 - Dave Cheney - Do not fear first class functions](https://www.youtube.com/watch?v=5buaPyJ0XeQ)
 
 ### Youtube channels
 

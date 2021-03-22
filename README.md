@@ -37,6 +37,8 @@
 
 [Why Discord is switching from Go to Rust](https://blog.discord.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)
 
+[dotGo 2016 - Dave Cheney - Do not fear first class functions](https://www.youtube.com/watch?v=5buaPyJ0XeQ)
+
 ### Redis
 
 [A Redis series articles](https://medium.com/swlh/install-redis-inside-a-ubuntu-vm-d5022d42d8cc)

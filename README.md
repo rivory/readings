@@ -96,6 +96,8 @@
 
 [Zalando](https://engineering.zalando.com/)
 
+[Flant blog - devops & Kubernetes goodies](https://blog.flant.com/)
+
 
 ## Useful resources
 

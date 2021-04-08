@@ -74,6 +74,8 @@
 
 [dotGo 2016 - Dave Cheney - Do not fear first class functions](https://www.youtube.com/watch?v=5buaPyJ0XeQ)
 
+[GOTO 2019 • "Good Enough" Architecture • Stefan Tilkov](https://www.youtube.com/watch?v=PzEox3szeRc)
+
 ### Youtube channels
 
 [George Hotz (commai archive)](https://www.youtube.com/c/commaaiarchive/featured)

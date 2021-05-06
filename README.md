@@ -100,6 +100,8 @@
 
 [Flant blog - devops & Kubernetes goodies](https://blog.flant.com/)
 
+[PaymentsNews.com](https://pn.glenbrook.com/)
+
 
 ## Useful resources
 
